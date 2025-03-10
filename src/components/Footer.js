@@ -23,17 +23,18 @@ const Footer = () => {
             <div>
                 <h3>Contact</h3>
             <ul>
-            <li>Address: <br/> 123 Town Street, Chicago</li>
-                <li>Phone: <br/> +00 123 456 789</li>
-                <li>Email: <br/> little@lemon.com</li>
+            <li>Address: <br/> Abomey Calavi</li>
+                <li>Phone: <br/> +229 0123 456 789</li>
+                <li>Email: <br/> little.lemon@gmail.com</li>
             </ul>
             </div>
             <div>
                 <h3>Social Media Links</h3>
             <ul>
+                <li><a href="/">Twitter</a></li>
+                <li><a href="/">Linkedin</a></li>
                 <li><a href="/">Facebook</a></li>
                 <li><a href="/">Instagram</a></li>
-                <li><a href="/">Twitter</a></li>
             </ul>
             </div>
             </section>
